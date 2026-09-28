@@ -48,7 +48,7 @@ Designed for daily operational monitoring, this view surfaces active task tallie
 ### 3. Analytics & Workload Telemetry
 Focuses on sprint management, team capacity constraints, and historical backlog volatility.
 
-![Tasks Status Page View](Task status.jpg)
+![Tasks Status Page View](Task_status.jpg)
 
 *   **Team Workload Breakdown:** A 100% stacked horizontal bar chart charting individualized allocations across blocked, done, in-progress, in-review, and to-do queues.
 *   **Backlog Volatility Trend (Critical):** A quarterly bar chart tracking the creation and age of high-priority blockers.
